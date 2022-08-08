@@ -1,0 +1,10 @@
+conda commands
+conda info --envs
+conda activate kenv
+
+cd Documents\Kalshi\KalshiAPIStarterCode\KalshiAPIStarterCode
+python
+import KalshiClientsBase
+import secrets
+exch = KalshiClientsBase.ExchangeClient("https://trading-api.kalshi.com",secrets.locemail,secrets.locpass)
+
