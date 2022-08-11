@@ -8,8 +8,6 @@ from datetime import datetime
 from datetime import timedelta
 import time
 
-#this is a test change
-
 """
 aaa = {"email": "kal.username","password": "kal.password"}
 """
