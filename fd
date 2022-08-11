@@ -1,0 +1,29 @@
+[33mcommit 03553e603c60c27978a3840f09ba435d50f71b3a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Garrett <garrett.jolley@gmail.com>
+Date:   Mon Aug 8 00:43:18 2022 -0500
+
+    Delete .gitignore.py
+
+[33mcommit c53287fa240ebd77bfdefb5b220c1edfefc090d9[m
+Author: Garrett <garrett.jolley@gmail.com>
+Date:   Mon Aug 8 00:41:48 2022 -0500
+
+    fixed ignore
+
+[33mcommit 711f35f4ea160e9d8a0d1c5283c3023a25cbbd7f[m
+Author: Garrett <garrett.jolley@gmail.com>
+Date:   Mon Aug 8 00:29:48 2022 -0500
+
+    Create .gitignore.py
+
+[33mcommit 9d1b8390b8b74078c1cb873bd03677512a02c58b[m
+Author: Garrett <garrett.jolley@gmail.com>
+Date:   Mon Aug 8 00:07:13 2022 -0500
+
+    Initial files
+
+[33mcommit 2ed9f11b3693efbb3c96b5f87a12eb355e02cb91[m
+Author: Garrett <garrett.jolley@gmail.com>
+Date:   Mon Aug 8 00:05:41 2022 -0500
+
+    Create start.txt
